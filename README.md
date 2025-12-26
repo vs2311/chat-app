@@ -10,6 +10,19 @@ This chat application is designed as a learning-oriented project to explore how 
 ---
 
 ## 🗂 Project Structure
+```text
+chat-app/
+├── frontend/
+│   ├── index.html
+│   ├── styles.css
+│   └── script.js
+├── backend/
+│   ├── server.js
+│   ├── routes/
+│   └── controllers/
+├── admin/
+├── README.md
+└── package.json
 
 ---
 
@@ -44,3 +57,4 @@ This project is under active development and is continuously improved as new bac
 
 ## 🔗 Repository Link
 https://github.com/vs2311/chat-app
+
