@@ -6,7 +6,9 @@ A simple real-time chat application built using Node.js, Express, and Socket.io.
 - Real-time messaging
 - Client-server communication
 - Simple chat interface
+## Demo
 
+![Chat App](screenshot.p
 ## Tech Stack
 - Node.js
 - Express
